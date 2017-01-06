@@ -2,7 +2,7 @@ This is an example of using the [.NET Compiler
 Platform](https://github.com/dotnet/roslyn) (a.k.a. Project Roslyn) in F#. This
 code consists of an F# port of the C#
 [code](https://github.com/unosviluppatore/getting-started-roslyn) written by
-@unosviluppatore (Gabriele Tomassetti) to accompany his helpful
+[@unosviluppatore](https://github.com/unosviluppatore) (Gabriele Tomassetti) to accompany his helpful
 [article](https://tomassetti.me/getting-started-roslyn/).
 
 # Running

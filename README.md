@@ -17,7 +17,7 @@ $ xbuild getting_started_roslyn_fsharp.sln
 ```
 Then run:
 ```
-./getting_started_roslyn_fsharp/bin/Debug/getting_started_roslyn_fsharp.exe
+mono ./getting_started_roslyn_fsharp/bin/Debug/getting_started_roslyn_fsharp.exe
 ```
 
 # Setup
